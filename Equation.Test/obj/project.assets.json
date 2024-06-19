@@ -377,6 +377,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Equation.solver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Equation.solver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Equation.solver.dll": {}
+        }
       }
     }
   },
@@ -970,10 +980,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Equation.solver/1.0.0": {
+      "type": "project",
+      "path": "../Equation.solver/Equation.solver.csproj",
+      "msbuildProject": "../Equation.solver/Equation.solver.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Equation.solver >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",
@@ -1012,7 +1028,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programación\\Tendencias desarollo de software\\EquationSolver\\Equation.solver\\Equation.solver.csproj": {
+              "projectPath": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programación\\Tendencias desarollo de software\\EquationSolver\\Equation.solver\\Equation.solver.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
