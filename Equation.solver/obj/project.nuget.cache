@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Pht/WlWxNM4Hm6i9QKu3NXrNVZ/j547BHuvcS+JVnxM5JUIXQflDpLFdhkH1065JRcEbWNF55QoIyrGqmTxJwg==",
+  "dgSpecHash": "Hh68SFa7Zr1UthzPOb+1iJvGeQDkc5xuxnbuj/wxXTou4il1NV5X9QOuLeO/dqNoOfUJLBG3hcluXnuHIVEqJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programación\\Tendencias desarollo de software\\EquationSolver\\Equation.solver\\Equation.solver.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\radha\\.nuget\\packages\\optional\\4.0.0\\optional.4.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

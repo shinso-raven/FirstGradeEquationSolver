@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YfnMm+yya/vzrm4Cc3X4R+lCa60TDcEB3FTDRHbY5bB779JoEQ3nk75BZ1coxXCXQ6r+sc3cco9/ifmQj3V+0g==",
+  "dgSpecHash": "TtgB47/Kv+vzoyHtJIQCiWtXWNoeUTHasorFmLyKNVpGfqPfqLkbwG6IbGCjlzGvLUbwlc6pWywBqM+UZb+WOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programación\\Tendencias desarollo de software\\EquationSolver\\Equation.Test\\Equation.Test.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\radha\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
     "C:\\Users\\radha\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
     "C:\\Users\\radha\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\radha\\.nuget\\packages\\optional\\4.0.0\\optional.4.0.0.nupkg.sha512",
     "C:\\Users\\radha\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
