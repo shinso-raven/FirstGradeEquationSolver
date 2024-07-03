@@ -11,6 +11,8 @@ public class Tests
 
     [TestCase("x + 3 = 0 ", "x = -3")]
     [TestCase("x * 3 = 0 ", "x = 0")]
+    [TestCase("x / 5 = 20 ", "x = 100")]
+
     public void Equation_solves_simple_solution(string entrada, string salida)
     {
         Equation_solver eq = new Equation_solver(entrada);
@@ -23,6 +25,7 @@ public class Tests
     [TestCase("(x + 3)/5 = 0 ")]
     public void Equation_print_error_solution(string entrada)
     {
+
         string salida = "Error solving the equation";
         Equation_solver eq = new Equation_solver(entrada);
 

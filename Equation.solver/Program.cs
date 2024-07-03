@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using Optional;
@@ -114,7 +114,7 @@ public class Solution
         return Option.Some<Solution, string>(new Solution(inputEquation));
 
 
-        return Option.None<Solution, string>("Error solving the equation");
+        // return Option.None<Solution, string>("Error solving the equation");
     }
 }
 

@@ -24,3 +24,8 @@
 
 - Print solution
     // x = -3 | -3
+
+
+        =
+    +      0
+  x  3
